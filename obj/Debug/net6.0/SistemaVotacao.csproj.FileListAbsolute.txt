@@ -1,0 +1,15 @@
+C:\projetos\SistemaVotacao\bin\Debug\net6.0\SistemaVotacao.exe
+C:\projetos\SistemaVotacao\bin\Debug\net6.0\SistemaVotacao.deps.json
+C:\projetos\SistemaVotacao\bin\Debug\net6.0\SistemaVotacao.runtimeconfig.json
+C:\projetos\SistemaVotacao\bin\Debug\net6.0\SistemaVotacao.dll
+C:\projetos\SistemaVotacao\bin\Debug\net6.0\SistemaVotacao.pdb
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.csproj.AssemblyReference.cache
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.AssemblyInfoInputs.cache
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.AssemblyInfo.cs
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.csproj.CoreCompileInputs.cache
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.dll
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\refint\SistemaVotacao.dll
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.pdb
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\SistemaVotacao.genruntimeconfig.cache
+C:\projetos\SistemaVotacao\obj\Debug\net6.0\ref\SistemaVotacao.dll
